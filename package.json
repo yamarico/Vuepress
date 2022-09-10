@@ -9,8 +9,8 @@
   },
   "repository": "/cd docs",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+      "dev": "vuepress dev docs",
+      "build": "vuepress build docs"
   },
   "license": "MIT",
   "devDependencies": {
