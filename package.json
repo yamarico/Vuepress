@@ -9,12 +9,13 @@
   },
   "repository": "/cd docs",
   "scripts": {
-      "dev": "vuepress dev docs",
-      "build": "vuepress build docs"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
   "license": "MIT",
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.9.7",
-    "vuepress": "^1.5.3"
-  }
+    "vuepress": "^1.9.7"
+  },
+  "author": "yamarico <cssu19093@g.nihon-u.ac.jp>"
 }
